@@ -1,0 +1,29 @@
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+D:\Shahadat\AssignedWork\WorkWithMamunSir06242019\Priority3\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csprojAssemblyReference.cache
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+C:\Users\Web App Develop .Net\Downloads\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe.config
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.exe
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\bin\Debug\SuperShopAppPractice3.pdb
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csprojAssemblyReference.cache
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.Properties.Resources.resources
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.SuperShopUi.resources
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.GenerateResource.cache
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.exe
+C:\Users\User\Documents\SuperShopAppPractice3\SuperShopAppPractice3\obj\Debug\SuperShopAppPractice3.pdb
